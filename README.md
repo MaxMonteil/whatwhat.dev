@@ -44,7 +44,17 @@ Back-end development consists of everything that the users do not direclty inter
 
 **Learn**
 
-#### Cloud Computing
+#### Cloud Development
+
+Cloud computing is the constant availability of computer resources and services over the internet/cloud.
+A cloud developer works to move the software development cycle to cloud based development, testing, release, and deployment. It can also mean working on developing cloud based software such as [PaaS](#paas), [SaaS](#saas), and [IaaS](#iaas).
+Such development requires a developer to be comfortable with cloud service providers like [AWS](#aws-amazon-web-services), [Azure](#azure), [GCP](#gcp-google-cloud-platform), and more.
+
+**More Info**
+
+* [What is cloud computing? - Microsoft](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
+* [What is Cloud Development](https://www.cloudopedia.com/cloud-development/)
+
 #### Data Science
 #### Embedded Systems Development
 #### Front-end Development
