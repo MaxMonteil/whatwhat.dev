@@ -16,15 +16,34 @@ This article will essentially be a little dictionnary of terms from the developm
 
 See [API](#API) first.
 
-API development involves creating the interfaces that enable other developers and their software to be more extensible. The resulting software is generally aimed at other developers 
+API development involves creating the interfaces that enable other developers and their software to be more extensible. Since each API is specifically built for its service, an API developer would need to become familiar with the service's capacities to expose them to other developers and programs. Being aimed at other developers, [developer experience](#dx-developer-experience) is a key consideration.
+
+API development is often also a task for [back-end developers](back-end-development).
+
+**More Info**
+
+**Learn**
 
 #### Application Development
 
 Application development is the area people might initially think of when it comes to software development because the results are the kinds of software we interact with most often on our computers. Programs like Word, Chrome, Spotify, and similar are examples of the type of software made by application developers.
 
-*More Info*
+**More Info**
+
+**Learn**
 
 #### Back-end Development
+
+Also referred to as server side programming, this is the counterpart to and consists of the work done behind the scenes to ensure the [front-end](#front-end-development) of an application continues working smoothly.
+
+Back-end development consists of everything that the users do not direclty interact with like managing databases to store application information, business logic, calculations, and sometimes the whole architecture of the application.
+
+**More Info**
+
+* [What Is Back-End Development?](https://simpleprogrammer.com/what-is-back-end-development/)
+
+**Learn**
+
 #### Cloud Computing
 #### Data Science
 #### Embedded Systems Development
@@ -42,6 +61,12 @@ Application development is the area people might initially think of when it come
 
 Accessibility sometimes written as a11y (eleven letters between the 'a' and 'y'), refers to how easy your software is to use if you suffer from things like color blindness, motor control, and more. It is often used to describe websites 
 
+**More Info**
+
+* [Accessibility - W3C.org](https://www.w3.org/standards/webdesign/accessibility)
+
+**Learn**
+
 #### API
 
 API stands for application programming interface. What this means is that an API is essentially like a remote control for different software that you can control with your own code. For example let's look at YouTube, you can interact with it through the usual channels, with the mobile app, on the website or maybe through your smart TV. But what if you wanted more control, or had a use case that YouTube itself didn't cater to very well, that's where an API comes in.
@@ -50,8 +75,11 @@ If we continue with the remote control analogy, the YouTube API gives you a remo
 
 Now, thanks to the API, you could create your own application that curates the most popular cat videos of the month based on your own criteria of what makes a video popular.
 
-*More Info*
-[What is an api? - How To Geek](https://www.howtogeek.com/343877/what-is-an-api/)
+**More Info**
+
+* [What is an api? - How To Geek](https://www.howtogeek.com/343877/what-is-an-api/)
+
+**Learn**
 
 #### CI/CD
 #### Deployment
@@ -107,10 +135,12 @@ Now, thanks to the API, you could create your own application that curates the m
 #### Vue
 
 ### Databases
-#### PostgreSQL
-#### MySQL
+#### CouchDB
 #### MariaDB
 #### MongoDB
+#### MySQL
+#### PostgreSQL
+#### PouchDB
 
 ### Platforms
 #### AWS - Amazon Web Services
@@ -120,16 +150,16 @@ Now, thanks to the API, you could create your own application that curates the m
 #### Heroku
 
 ### Static Site Generators
-#### Hugo
-#### Gridsome
-#### Nuxt
-#### Next
 #### Gatsby
+#### Gridsome
+#### Hugo
+#### Next
+#### Nuxt
 
 ### Operating Systems
-#### Linux
-#### FreeBSD
-#### Windows
-#### MacOS
-#### iOS
 #### Android
+#### FreeBSD
+#### Linux
+#### MacOS
+#### Windows
+#### iOS
