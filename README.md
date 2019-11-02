@@ -8,11 +8,9 @@ This isn't an exhaustive list and honestly, as time goes on terms might change o
 
 This article will essentially be a little dictionnary of terms from the development (and adjacent) industries, a definition, and where possible a link to some articles that I feel give a more complete explanation.
 
-## Terms
+## Types of software development
 
-### Types of software development
-
-#### API Development
+### API Development
 
 See [API](#API) first.
 
@@ -24,7 +22,7 @@ API development is often also a task for [back-end developers](back-end-developm
 
 **Learn**
 
-#### Application Development
+### Application Development
 
 Application development is the area people might initially think of when it comes to software development because the results are the kinds of software we interact with most often on our computers. Programs like Word, Chrome, Spotify, and similar are examples of the type of software made by application developers.
 
@@ -32,7 +30,7 @@ Application development is the area people might initially think of when it come
 
 **Learn**
 
-#### Back-end Development
+### Back-end Development
 
 Also referred to as server side programming, this is the counterpart to and consists of the work done behind the scenes to ensure the [front-end](#front-end-development) of an application continues working smoothly.
 
@@ -44,7 +42,7 @@ Back-end development consists of everything that the users do not direclty inter
 
 **Learn**
 
-#### Cloud Development
+### Cloud Development
 
 Cloud computing is the constant availability of computer resources and services over the internet/cloud.
 A cloud developer works to move the software development cycle to cloud based development, testing, release, and deployment. It can also mean working on developing cloud based software such as [PaaS](#paas), [SaaS](#saas), and [IaaS](#iaas).
@@ -57,9 +55,9 @@ Such development requires a developer to be comfortable with cloud service provi
 
 **Learn**
 
-#### Data Science
-#### Embedded Systems Development
-#### Front-end Development
+### Data Science
+### Embedded Systems Development
+### Front-end Development
 
 In contrast to [back-end development](#back-end-development), Front-end development concerns the client/user facing portion of an application. Used in the context of web development, this would be the interface of the website or app as well as all the logic and data handling that is done within the browser instead of a server. The developer must also be comfortable using APIs in order to send and receive data to various servers and cloud services.
 
@@ -67,16 +65,16 @@ In contrast to [back-end development](#back-end-development), Front-end developm
 
 **Learn**
 
-#### Game Development
-#### Mobile Development
-#### Security Software Development
-#### Software Tools Development
-#### Systems Development
-#### Web Development
+### Game Development
+### Mobile Development
+### Security Software Development
+### Software Tools Development
+### Systems Development
+### Web Development
 
-### Common Terms
+## Common Terms
 
-#### Accessibility
+### Accessibility
 
 Accessibility sometimes written as a11y (eleven letters between the 'a' and 'y'), refers to how easy your software is to use if you suffer from things like color blindness, motor control, and more. It is often used to describe websites 
 
@@ -86,7 +84,7 @@ Accessibility sometimes written as a11y (eleven letters between the 'a' and 'y')
 
 **Learn**
 
-#### API
+### API
 
 API stands for application programming interface. What this means is that an API is essentially like a remote control for different software that you can control with your own code. For example let's look at YouTube, you can interact with it through the usual channels, with the mobile app, on the website or maybe through your smart TV. But what if you wanted more control, or had a use case that YouTube itself didn't cater to very well, that's where an API comes in.
 
@@ -100,89 +98,89 @@ Now, thanks to the API, you could create your own application that curates the m
 
 **Learn**
 
-#### CI/CD
-#### DX - Developer Experience
-#### Deployment
-#### DevOps
-#### Functional Programming
-#### GDPR
-#### GUI
-#### IDE
-#### IaaS
-#### ML/AI
-#### NoSQL
-#### OOP
-#### PaaS
-#### REST
-#### SEO
-#### SQL
-#### SSG
-#### SaaS
-#### Serverless
-#### Terminal
-#### UI/UX
-#### VCS - Version Control Software
+### CI/CD
+### DX - Developer Experience
+### Deployment
+### DevOps
+### Functional Programming
+### GDPR
+### GUI
+### IDE
+### IaaS
+### ML/AI
+### NoSQL
+### OOP
+### PaaS
+### REST
+### SEO
+### SQL
+### SSG
+### SaaS
+### Serverless
+### Terminal
+### UI/UX
+### VCS - Version Control Software
 
-### Software/Programs
-#### Git, Github, Gitlabs
-#### IDE
-#### Graphql
-#### Unity
-#### Godot
-#### Unreal Engine
+## Software/Programs
+### Git, Github, Gitlabs
+### IDE
+### Graphql
+### Unity
+### Godot
+### Unreal Engine
 
-### Languages
-#### C / C++
-#### C#
-#### CSS
-#### Dart
-#### Go
-#### HTML
-#### Java
-#### Javascript
-#### Python
-#### Rust
+## Languages
+### C / C++
+### C#
+### CSS
+### Dart
+### Go
+### HTML
+### Java
+### Javascript
+### Python
+### Rust
 
-### Frameworks
-#### .Net
-#### Angular
-#### Django
-#### Flask
-#### Numpy
-#### Pandas
-#### PyTorch
-#### React
-#### Spring
-#### TensorFlow
-#### Vue
-#### Jest
+## Frameworks
+### .Net
+### Angular
+### Django
+### Flask
+### Numpy
+### Pandas
+### PyTorch
+### React
+### Spring
+### TensorFlow
+### Vue
+### Jest
 
-### Databases
-#### CouchDB
-#### MariaDB
-#### MongoDB
-#### MySQL
-#### PostgreSQL
-#### PouchDB
+## Databases
+### CouchDB
+### MariaDB
+### MongoDB
+### MySQL
+### PostgreSQL
+### PouchDB
 
-### Platforms
-#### AWS - Amazon Web Services
-#### Azure
-#### Firebase
-#### GCP - Google Cloud Platform
-#### Heroku
+## Platforms
+### AWS - Amazon Web Services
+### Azure
+### Firebase
+### GCP - Google Cloud Platform
+### Heroku
 
-### Static Site Generators
-#### Gatsby
-#### Gridsome
-#### Hugo
-#### Next
-#### Nuxt
+## Static Site Generators
+### Gatsby
+### Gridsome
+### Hugo
+### Next
+### Nuxt
 
-### Operating Systems
-#### Android
-#### FreeBSD
-#### Linux
-#### MacOS
-#### Windows
-#### iOS
+## Operating Systems
+### Android
+### FreeBSD
+### Linux
+### MacOS
+### Windows
+### iOS
