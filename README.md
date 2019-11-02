@@ -92,21 +92,24 @@ Now, thanks to the API, you could create your own application that curates the m
 **Learn**
 
 #### CI/CD
+#### DX - Developer Experience
 #### Deployment
 #### DevOps
-#### DX - Developer Experience
 #### Functional Programming
 #### GDPR
 #### GUI
 #### IDE
+#### IaaS
 #### ML/AI
 #### NoSQL
 #### OOP
+#### PaaS
 #### REST
 #### SEO
-#### Serverless
-#### SSG
 #### SQL
+#### SSG
+#### SaaS
+#### Serverless
 #### Terminal
 #### UI/UX
 #### VCS - Version Control Software
@@ -143,6 +146,7 @@ Now, thanks to the API, you could create your own application that curates the m
 #### Spring
 #### TensorFlow
 #### Vue
+#### Jest
 
 ### Databases
 #### CouchDB
