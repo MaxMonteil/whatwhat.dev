@@ -55,9 +55,18 @@ Such development requires a developer to be comfortable with cloud service provi
 * [What is cloud computing? - Microsoft](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 * [What is Cloud Development](https://www.cloudopedia.com/cloud-development/)
 
+**Learn**
+
 #### Data Science
 #### Embedded Systems Development
 #### Front-end Development
+
+In contrast to [back-end development](#back-end-development), Front-end development concerns the client/user facing portion of an application. Used in the context of web development, this would be the interface of the website or app as well as all the logic and data handling that is done within the browser instead of a server. The developer must also be comfortable using APIs in order to send and receive data to various servers and cloud services.
+
+**More Info**
+
+**Learn**
+
 #### Game Development
 #### Mobile Development
 #### Security Software Development
